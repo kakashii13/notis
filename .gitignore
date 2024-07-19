@@ -1,0 +1,9 @@
+notis-client/
+notis-server/node_modules
+notis-client/node_modules
+
+**.env
+**steps.txt
+notis-server/.env
+notis-server/src/steps.txt
+notis-client/src/gruvbox.png
